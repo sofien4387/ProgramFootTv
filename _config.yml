@@ -1,0 +1,5 @@
+# Site settings
+title:Programme TV Foot
+subtitle: "Programme Foot TV"
+url: "https://sofien4387.github.io/ProgramTVFoot/" # the base hostname & protocol for your site
+baseurl: "/"
